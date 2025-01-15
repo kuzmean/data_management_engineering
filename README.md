@@ -1,5 +1,7 @@
 # Проект - Мультимодальные банковские данные юридических лиц
 
+Проект в Collab: https://colab.research.google.com/drive/16TnFgo0SqHRB1X8nkIjsmUf8X1lRfscC#scrollTo=QA9N5JsxHlj7
+
 ## Описание проекта
 Команда Сбербанка опубликовала в open-source самый большой датасет, содержащий мультимодальные банковские данные юридических лиц — Multimodal Banking Dataset (MBD).
 
